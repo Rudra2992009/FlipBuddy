@@ -1,0 +1,10 @@
+{
+    "engine_version": "1.0.0",
+    "flip_settings": {
+        "speed": "0.6s",
+        "transition": "cubic-bezier",
+        "shadow_depth": 0.8,
+        "auto_center": true
+    },
+    "output_target": "dist_viewer.pdf"
+}
